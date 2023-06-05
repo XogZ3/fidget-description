@@ -38,7 +38,7 @@ Fidget Games, play one new game every day.
 
 We believe that the element of scarcity, fear of missing out and potential to get rewarded for owning games will power our revenue stream, which we will share with the talented game developers. This way, everyone wins.
 
-![4](./4.jpg)
+<img src="./assets/4.jpg" width="400">
 
 ## Technology
 
@@ -46,8 +46,8 @@ We believe that the element of scarcity, fear of missing out and potential to ge
 
 These mini-games are fun, relaxing and addictive. <INSERT GIF?>
 
-![2](./2.jpeg)
-![3](./3.jpeg)
+<img src="./assets/2.jpeg" width="400">
+<img src="./assets/3.jpeg" width="400">
 
 ### Web3
 
@@ -65,17 +65,12 @@ To seamlessly integrate into the exciting world of Web3, we have chosen the Veno
 
 ### Tokenomics (is it required?)
 
-Low trading fees
-
-Mint fee and txn fee will go into governance treasury
-
-Governance treasury reinvests into developing better games
-
-Mint will have an upper limit of 1,000,000 for each game
-
-Minting price is constant for all users
-
-Exchange NFTs in our marketplace
+- Low trading fees
+- Mint fee and txn fee will go into governance treasury
+- Governance treasury reinvests into developing better games
+- Mint will have an upper limit of 1,000,000 for each game
+- Minting price is constant for all users
+- Exchange NFTs in our marketplace
 
 ## Let's get started
 
@@ -92,8 +87,5 @@ We have developed enough games to last a couple quarters, and have implemented b
 - DAO multisig timelock mechanism for executing change in txn fees
 - game scores, leaderboards, achievements and further gamification
 - new types of NFTs
-- Zero Knowledge (Zk) Technology to to ensure fair play and validation 
+- Zero Knowledge (Zk) Technology to to ensure fair play and validation
 - NFTs will be interoperable, multi-chain NFTs, can be transferred to any chain and minted on any chain
-
-
-
