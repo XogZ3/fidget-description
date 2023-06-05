@@ -1,6 +1,7 @@
 # Fidget Games
 
 Mission: Bringing gaming nostalgia through daily mini-games and NFT ownership.
+
 Vision: Become marketplace for **ALL** games
 
 ## The Team
