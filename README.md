@@ -22,10 +22,9 @@ We recognize the people's frustration of constantly installing and uninstalling 
 
 ## The Opportunity
 
-```
-<INSERT #s for worldwide>
-In the UAE alone, around 2 million people play mobile games, and this number is expected to grow to 2.33 million in the next five years.
-```
+> <INSERT #s for worldwide>
+>
+> In the UAE alone, around 2 million people play mobile games, and this number is expected to grow to 2.33 million in the next five years.
 
 Did you know that most of the revenue in the mobile gaming industry comes from casual games? This fact motivated us to focus on transforming the gaming experience for the people.
 
