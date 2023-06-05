@@ -14,9 +14,7 @@ Gokul - business developer, gamer
 
 ## The Problem
 
-```
-In a world overloaded with annoying ads in casual games, the real fun of playing often gets lost.
-```
+> In a world overloaded with annoying ads in casual games, the real fun of playing often gets lost.
 
 We recognize the people's frustration of constantly installing and uninstalling games as they flood the app stores. Independent developers struggle to reach their audience, while big companies dominate the top ranks and take a significant share of the revenue. It's time to break this cycle and create a win-win situation for everyone involved.
 
@@ -30,9 +28,7 @@ Did you know that most of the revenue in the mobile gaming industry comes from c
 
 ## The Solution
 
-```
-Fidget Games, play one new game every day.
-```
+> _Fidget Games_, play one new game every day.
 
 **But here's the catch**: users will have the option to buy or mint NFTs that grant them lifetime access to their favorite games. If any user misses out on obtaining a specific game's NFT, they can purchase it from other users.
 
@@ -51,15 +47,11 @@ These mini-games are fun, relaxing and addictive. <INSERT GIF?>
 
 ### Web3
 
-```
-<INSERT UX minting>
-```
+> <INSERT UX minting>
 
 ### Blockchain: Venom
 
-```
-<INSERT WHY VENOM> + UAE scope
-```
+> <INSERT WHY VENOM> + UAE scope
 
 To seamlessly integrate into the exciting world of Web3, we have chosen the Venom blockchain network. By leveraging this advanced blockchain infrastructure, we can reward users with free NFTs for their achievements. This approach aims to introduce more users to the Web3 ecosystem, encouraging widespread adoption.
 
