@@ -20,11 +20,11 @@ We recognize the people's frustration of constantly installing and uninstalling 
 
 ## The Opportunity
 
-> <INSERT #s for worldwide>
+> Mobile games generate $90+ billion in revenue, half of which comes from casual games!
 >
-> In the UAE alone, around 2 million people play mobile games, and this number is expected to grow to 2.33 million in the next five years.
+> The UAE contributes $163 million, and ~2 million people play mobile games, and this number is expected to grow to 2.33 million in the next five years.
 
-Did you know that most of the revenue in the mobile gaming industry comes from casual games? This fact motivated us to focus on transforming the gaming experience for the people.
+These fact motivated us to focus on transforming the gaming experience for the people, and facilitate true ownership of games and game assets.
 
 ## The Solution
 
@@ -34,20 +34,29 @@ Did you know that most of the revenue in the mobile gaming industry comes from c
 
 We believe that the element of scarcity, fear of missing out and potential to get rewarded for owning games will power our revenue stream, which we will share with the talented game developers. This way, everyone wins.
 
-<img src="./assets/4.jpg" width="400">
+<img src="./assets/summary.jpg" width="400">
 
 ## Technology
 
 ### Games
 
-These mini-games are fun, relaxing and addictive. <INSERT GIF?>
+Our mini-games are fun, relaxing and addictive. <INSERT GIF?>
 
-<img src="./assets/2.jpeg" width="400">
-<img src="./assets/3.jpeg" width="400">
+<!-- <img src="./assets/game1.png" width="200">
+<img src="./assets/game2.png" width="200">
+<img src="./assets/game3.png" width="200">
+<img src="./assets/game4.png" width="200"> -->
+
+<video src="./assets/game_1.mov" width="200" autoplay="true" loop muted playsinline ></video>
+<video src="./assets/game_5.mov" width="200" autoplay="true" loop muted playsinline ></video>
+<video src="./assets/game_3.mov" width="200" autoplay="true" loop muted playsinline ></video>
+<video src="./assets/game_4.mov" width="200" autoplay="true" loop muted playsinline ></video>
 
 ### Web3
 
-> <INSERT UX minting>
+> Users can connect their Venom wallet to fidget app, to trade game NFTs easily
+
+<video src="./assets/ux.mp4" width="200" autoplay="true" loop muted playsinline ></video>
 
 ### Blockchain: Venom
 
@@ -58,7 +67,7 @@ To seamlessly integrate into the exciting world of Web3, we have chosen the Veno
 ### Tokenomics (is it required?)
 
 - Low trading fees
-- Mint fee and txn fee will go into governance treasury
+- Mint fee and transaction fee will go into governance treasury
 - Governance treasury reinvests into developing better games
 - Mint will have an upper limit of 1,000,000 for each game
 - Minting price is constant for all users
@@ -74,10 +83,10 @@ We have developed enough games to last a couple quarters, and have implemented b
 
 ## Roadmap
 
-- add free NFTs for achievements using Venom
-- set up a governance DAO, to determine mint prices & more
-- DAO multisig timelock mechanism for executing change in txn fees
-- game scores, leaderboards, achievements and further gamification
-- new types of NFTs
+- Add free NFTs for achievements using Venom
+- Set up a governance DAO, to determine mint prices & more
+- DAO multisig time-lock mechanism for executing change in transaction fees
+- Game scores, leaderboards, achievements and further gamification
+- New types of NFTs
 - Zero Knowledge (Zk) Technology to to ensure fair play and validation
 - NFTs will be interoperable, multi-chain NFTs, can be transferred to any chain and minted on any chain
