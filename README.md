@@ -20,7 +20,7 @@ We recognize the people's frustration of constantly installing and uninstalling 
 
 ## The Opportunity
 
-> Mobile games generate $90+ billion in revenue, half of which comes from casual games!
+> Mobile games generate $90+ billion in yearly revenue, half of which comes from casual games!
 >
 > The UAE contributes $163 million, and ~2 million people play mobile games, and this number is expected to grow to 2.33 million in the next five years.
 
@@ -47,22 +47,37 @@ Our mini-games are fun, relaxing and addictive. <INSERT GIF?>
 <img src="./assets/game3.png" width="200">
 <img src="./assets/game4.png" width="200"> -->
 
-<video src="./assets/game_1.mov" width="200" autoplay="true" loop muted playsinline ></video>
-<video src="./assets/game_5.mov" width="200" autoplay="true" loop muted playsinline ></video>
-<video src="./assets/game_3.mov" width="200" autoplay="true" loop muted playsinline ></video>
-<video src="./assets/game_4.mov" width="200" autoplay="true" loop muted playsinline ></video>
+<video autoplay controls width="200">
+    <source src="./assets/game_1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<video autoplay controls width="200">
+    <source src="./assets/game_2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<video autoplay controls width="200">
+    <source src="./assets/game_3.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<video autoplay controls width="200">
+    <source src="./assets/game_4.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ### Web3
 
 > Users can connect their Venom wallet to fidget app, to trade game NFTs easily
 
-<video src="./assets/ux.mp4" width="200" autoplay="true" loop muted playsinline ></video>
+<video autoplay controls width="200" autoplay="true">
+    <source src="./assets/ux.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
-### Blockchain: Venom
+### Blockchain
 
-> <INSERT WHY VENOM> + UAE scope
+> We have chosen Venom Blockchain, to explore its fast transaction speeds and infinite scalability
 
-To seamlessly integrate into the exciting world of Web3, we have chosen the Venom blockchain network. By leveraging this advanced blockchain infrastructure, we can reward users with free NFTs for their achievements. This approach aims to introduce more users to the Web3 ecosystem, encouraging widespread adoption.
+By leveraging this advanced blockchain infrastructure, we can reward users with free NFTs for their achievements. This approach aims to introduce more users to the Web3 ecosystem, encouraging widespread adoption.
 
 ### Tokenomics (is it required?)
 
