@@ -1,107 +1,101 @@
-# Fidget Games
+## Fidget Games
 
-Mission: Bringing gaming nostalgia through daily mini-games and NFT ownership.
+**Mission**: Bring mass adoption to web3 through a _unique_ gaming approach.
 
-Vision: Become marketplace for **ALL** games.
-
-## The Team
+**Vision**: Become the marketplace for **ALL** games.
+### Our Team
 
 Manish - CTO, gamer
 
 Raunak - senior developer, gamer
 
 Gokul - business developer, gamer
+### The Situation
 
-## The Problem
+> The new wave of web3 adoption will happen through games, but not how most people think.
 
-> In a world overloaded with annoying ads in casual games, the real fun of playing often gets lost.
+Major gaming companies are attempting to build AAA games, like CS:GO, dota, minecraft, with hopes of building a big community. But this is improbable, as evident from the _unsustainability_ of building adoption through tokenomics, play-to-earn, NFTs, or gameplay alone. For example, alien worlds did not have a gameplay, and crypto kitties failed due to inflationary tokenomics.
 
-We recognize the people's frustration of constantly installing and uninstalling games as they flood the app stores. Independent developers struggle to reach their audience, while big companies dominate the top ranks and take a significant share of the revenue. It's time to break this cycle and create a win-win situation for everyone involved.
+Successful AAA games mostly have a niche audience who are long-time players with a passion for gaming. So it is unrealistic to expect an average person to try and commit to a new game in web3.
 
-## The Opportunity
+_Call of Duty: Warzone has 85 million players, Candy Crush has had more than one billion players_
 
-> Mobile games generate $90+ billion in yearly revenue, half of which comes from casual games!
->
-> The UAE contributes $163 million, and ~2 million people play mobile games, and this number is expected to grow to 2.33 million in the next five years.
+However, casual games have an inherent problem, majority of them have _low retention_. The general pattern among casual gamers is that they flock to a new exciting game, then quickly get exhausted and move onto the next one.
 
-These fact motivated us to focus on transforming the gaming experience for the people, and facilitate true ownership of games and game assets.
+<img src="https://media.licdn.com/dms/image/C4D12AQE37MHb6qO5xA/article-inline_image-shrink_1000_1488/0/1610466927640?e=1691625600&v=beta&t=8v35yG3Do-zsrUf2hcjx01dbSFCQL0h8aAVCTjbUuPU" alt="casual gamer behavior" width="450"></img>
 
-## The Solution
+### Our Approach
+> **Fidget Games offers a single app which will give users a new game every day**, without having to updating the app or downloading from store
 
-> _Fidget Games_, play one new game every day.
+Our in-house game development team creates fantastic games with following things at the core:
 
-**But here's the catch**: users will have the option to buy or mint NFTs that grant them lifetime access to their favorite games. If any user misses out on obtaining a specific game's NFT, they can purchase it from other users.
 
-We believe that the element of scarcity, fear of missing out and potential to get rewarded for owning games will power our revenue stream, which we will share with the talented game developers. This way, everyone wins.
+• games appear within the same app, protecting the users from the burden of searching & downloading from store
 
-<img src="./assets/summary.jpg" width="400">
+• each game is wholesome with low complexity, giving a sense of comfort & familiarity - helping build a habit of _fidgeting_ around
 
-## Technology
+• every game comes with new mechanics, unique artwork, instilling sense of achievement every day through exploring the gameplay
 
-### Games
+• there's a game for every one, as one size does not fit all
 
-Our mini-games are fun, relaxing and addictive. <INSERT GIF?>
+• games have infinite levels generated _automagically_
 
-<!-- <img src="./assets/game1.png" width="200">
-<img src="./assets/game2.png" width="200">
-<img src="./assets/game3.png" width="200">
-<img src="./assets/game4.png" width="200"> -->
+We believe that our games would dramatically improve retention, and that users will be interested in our unique proposition - enough to try and stick around, helping us realise our mission.
 
-<video autoplay controls width="200">
-    <source src="./assets/game_1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-<video autoplay controls width="200">
-    <source src="./assets/game_2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-<video autoplay controls width="200">
-    <source src="./assets/game_3.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-<video autoplay controls width="200">
-    <source src="./assets/game_4.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+As our games have a _**24 hours shelf life**_, users will have to purchase the game to continue playing it. We expect this purchasing behaviour as
 
+• our games have original designs
+
+• limited time to make purchase decision
+
+• highly engaging gameplay
+
+• extended playability owing to auto-generated levels
+### Our Gameplan
+
+We aim to onboard users to web3 by providing options to buy today's game through _in-app purchase_ or a more affordable equivalent to _mint NFT_.
+
+By displaying these options side-by-side, we highlight the extraordinary benefits**^** that web3 offers, thereby bringing users over. We expect this conversion to scale eventually as the ecosystem becomes more accessible and friction in web3 wallet management improves.
+
+**^**Benefits:
+
+• true ownership
+
+• portability, transfer to other accounts (e.g., android to iOS)
+
+• ability to trade in open market
+
+• access to previous games via NFT marketplace
+
+<img src="https://github.com/XogZ3/fidget-description/raw/main/assets/summary.jpg" alt="summary" width="400"></img>
+
+### Treasure Hunt
+
+The success of Fidget Games has a bewildering consequence of becoming a lucrative alternative distribution & monetization platform, where game developers can break free from their dependency on playstore / appstore / steam, given that we will have built the ecosystem & user base.
+### Our Games
+
+Our games are fun, relaxing and addictive.
+
+![game 1](https://www.youtube.com/watch?v=tmioBkAHiTk)
+
+![game 2](https://www.youtube.com/watch?v=aOiMiEk33Wc)
 ### Web3
 
 > Users can connect their Venom wallet to fidget app, to trade game NFTs easily
 
-<video autoplay controls width="200" autoplay="true">
-    <source src="./assets/ux.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![wip ux](https://www.youtube.com/watch?v=w2OhXWIkki8)
+### Opportunity in MENA
 
+> Global mobile gaming sector market cap is $138 billion, with 2.3 billion players as of 2023 - estimated to increase by 400 million by 2027
+
+> MENA constitutes 15% of the global player base, and is predicted to **generate double the revenue by 2026** compared to $3 billion in 2021.
+
+These fact motivated us to focus on transforming the gaming experience for the people, and facilitate true ownership of games and game assets.
 ### Blockchain
 
-> We have chosen Venom Blockchain, to explore its fast transaction speeds and infinite scalability
+We have chosen to deploy Fidget Games on Venom Blockchain, to explore its fast transaction speeds and infinite scalability. We estimate it to have a higher growth potential as it is currently nascent and will be gearing up for mass adoption. This will be _mutually beneficial as both Venom and Fidget Games are striving to achieve mass adoption._
+### Let's get started
 
-By leveraging this advanced blockchain infrastructure, we can reward users with free NFTs for their achievements. This approach aims to introduce more users to the Web3 ecosystem, encouraging widespread adoption.
+> **Fidget Games offers a single app which will give users a new game every day**, without having to updating the app or downloading from store
 
-### Tokenomics (is it required?)
-
-- Low trading fees
-- Mint fee and transaction fee will go into governance treasury
-- Governance treasury reinvests into developing better games
-- Mint will have an upper limit of 1,000,000 for each game
-- Minting price is constant for all users
-- Exchange NFTs in our marketplace
-
-## Let's get started
-
-Embrace the future of gaming with "Fidget Games" – where every day brings new adventures, every NFT holds endless possibilities, and every player becomes an integral part of the gaming revolution.
-
-## Development Status
-
-We have developed enough games to last a couple quarters, and have implemented basic web3 features. We plan to do a global launch by June.
-
-## Roadmap
-
-- Add free NFTs for achievements using Venom
-- Set up a governance DAO, to determine mint prices & more
-- DAO multisig time-lock mechanism for executing change in transaction fees
-- Game scores, leaderboards, achievements and further gamification
-- New types of NFTs
-- Zero Knowledge (Zk) Technology to to ensure fair play and validation
-- NFTs will be interoperable, multi-chain NFTs, can be transferred to any chain and minted on any chain
+Embrace the future of gaming with "Fidget Games" – where every day brings new adventures, every NFT holds endless possibilities, and every player and game developer becomes an integral part of the gaming revolution.
